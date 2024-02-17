@@ -3,3 +3,4 @@ An optional application that depersonalizes the data received in the WorkersGene
 
 # Usage
 You must provide a csv file (table) that the application must depersonalize.
+Tested on macOS
